@@ -10,7 +10,8 @@
 #### 
 
 # Building locally
-## Clone the repo with ``git clone https://github.com/lukehtml/dice-roll-cli.git``
+## Clone the repo with ``git clone https://github.com/lukehtml/dice-cli.git``
 ## Then cd into the repo with ``cd dice-cli``
 ## Then build the module with ``py -m pip install --editable .``
+
 
