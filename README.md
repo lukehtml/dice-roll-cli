@@ -4,7 +4,7 @@
 
 # How to build:
 ## first run 
-``pip install git+https://github.com/yourusername/dice-cli.git``
+``pip install git+https://github.com/lukehtml/dice-cli.git``
 ### then run ``py -m dice [Insert NdM notation here]``
 ### alternatively you can add the dice.sh/dice.bat files to path respectively for linux/mac and windows
 #### 
@@ -13,3 +13,4 @@
 ## Clone the repo with ``git clone https://github.com/lukehtml/dice-roll-cli.git``
 ## Then cd into the repo with ``cd dice-cli``
 ## Then build the module with ``py -m pip install --editable .``
+
